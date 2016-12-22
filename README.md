@@ -1,0 +1,1 @@
+Builds locally via `go build ./src/...`
